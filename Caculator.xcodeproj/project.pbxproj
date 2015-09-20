@@ -77,11 +77,8 @@
 		ECE2124C1B01B979008C95CE /* Caculator */ = {
 			isa = PBXGroup;
 			children = (
-				ECE2124F1B01B979008C95CE /* AppDelegate.swift */,
-				ECE212511B01B979008C95CE /* ViewController.swift */,
 				ECE212531B01B979008C95CE /* Main.storyboard */,
-				ECE212561B01B979008C95CE /* Images.xcassets */,
-				ECE212581B01B979008C95CE /* LaunchScreen.xib */,
+				ECE212511B01B979008C95CE /* ViewController.swift */,
 				ECE2124D1B01B979008C95CE /* Supporting Files */,
 			);
 			path = Caculator;
@@ -90,6 +87,9 @@
 		ECE2124D1B01B979008C95CE /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				ECE2124F1B01B979008C95CE /* AppDelegate.swift */,
+				ECE212581B01B979008C95CE /* LaunchScreen.xib */,
+				ECE212561B01B979008C95CE /* Images.xcassets */,
 				ECE2124E1B01B979008C95CE /* Info.plist */,
 			);
 			name = "Supporting Files";
